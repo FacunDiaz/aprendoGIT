@@ -1,0 +1,1 @@
+todo lo que hagamos tiene que estar asociado a alguien, git nos va a ayudar a que en un equipo se pueda generar código, por lo cual tenemos que estar siempre asociados. Lo primero va a ser generar este directorio base. Para configurar git necesitamos un usuario y una contraseña. Para configurar 
